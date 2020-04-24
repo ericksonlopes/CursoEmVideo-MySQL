@@ -1,0 +1,1 @@
+select totaulas, nome, ano, descricao from cursos where totaulas between '20' and '30' order by totaulas;

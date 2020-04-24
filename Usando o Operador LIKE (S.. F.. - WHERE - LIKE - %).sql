@@ -1,0 +1,1 @@
+SELECT * from cursos where nome like 'P%';

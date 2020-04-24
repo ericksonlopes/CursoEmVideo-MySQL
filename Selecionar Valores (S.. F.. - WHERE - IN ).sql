@@ -1,0 +1,1 @@
+SELECT idcurso, nome, ano from cursos where ano in ('2014', 2016, 2018) order by ano;
