@@ -1,0 +1,1 @@
+SELECT DISTINCT nacionalidade FROM gafanhotos
