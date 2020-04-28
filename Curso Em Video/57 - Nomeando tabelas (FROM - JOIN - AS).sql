@@ -1,0 +1,1 @@
+SELECT g.nome, c.nome, c.ano FROM gafanhotos AS g JOIN cursos AS c ON c.idcurso = g.cursopreferido ORDER BY c.ano;

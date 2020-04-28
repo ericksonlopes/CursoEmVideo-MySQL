@@ -1,0 +1,1 @@
+INSERT INTO gafanhoto_assiste_curso VALUES (default, '2014-06-01', '7', '2')

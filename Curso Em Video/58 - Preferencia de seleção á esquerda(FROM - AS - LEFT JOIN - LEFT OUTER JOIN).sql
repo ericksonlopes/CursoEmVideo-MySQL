@@ -1,0 +1,1 @@
+SELECT g.nome, c.nome, c.ano from gafanhotos AS g LEFT JOIN cursos AS c ON c.idcurso = g.cursopreferido

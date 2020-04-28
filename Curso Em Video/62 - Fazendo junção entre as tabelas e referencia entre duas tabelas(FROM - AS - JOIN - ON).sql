@@ -1,0 +1,1 @@
+SELECT * FROM gafanhotos as g join gafanhoto_assiste_curso as a ON g.id = a.idgafanhoto
